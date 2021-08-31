@@ -1,1 +1,0 @@
-cmd_kernel/irq/built-in.a := echo >/dev/null; rm -f kernel/irq/built-in.a; ar cDPrST kernel/irq/built-in.a kernel/irq/irqdesc.o kernel/irq/handle.o kernel/irq/manage.o kernel/irq/spurious.o kernel/irq/resend.o kernel/irq/chip.o kernel/irq/dummychip.o kernel/irq/devres.o kernel/irq/autoprobe.o kernel/irq/irqdomain.o kernel/irq/proc.o kernel/irq/matrix.o

@@ -1,1 +1,0 @@
-cmd_/root/linux/linux-5.14/tools/objtool/arch/x86/objtool-in.o :=  ld -r -o /root/linux/linux-5.14/tools/objtool/arch/x86/objtool-in.o  /root/linux/linux-5.14/tools/objtool/arch/x86/special.o /root/linux/linux-5.14/tools/objtool/arch/x86/decode.o
